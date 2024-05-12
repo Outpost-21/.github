@@ -1,6 +1,9 @@
 ## Outpost 21 Mods
 Can't use Steam? All O21 mods are available on GitHub in public repos now! Refer to the Steam Workshop for information on them as generally they will not have a wiki, or even a readme.
 
+### Support
+Like the mods and want to show some support? Anyone is welcome to do so via [Patreon](https://www.patreon.com/neronix17), huge thanks to everyone who has supported me even a little, it's literally prevented me from starving, or running out of utilities more often than I'd like to admit.
+
 ### Issues
 You can submit a ticket on any of the mods if you have any issues. Make sure that:
 - You are up to date (cloning the repo using GitHub Desktop is the easiest way, you can then just fetch the latest version!)
@@ -17,3 +20,16 @@ Odds are that if it's a conflict, only you will be able to find it, I do not hav
 
 ### Got a fix yourself?
 In the less than yearly occurrence that you have a fix you want to contribute you are absolutely welcome to do so with a pull request.
+
+### Looking for a mod and can't find it?
+You may be looking for one of the series GitHubs instead! When a mod series is multiple modules I will tend to split them off into their own Organization here on GitHub for easier managing of contributors as well as the mods themselves.
+
+Links to them are here:
+- [Outland](https://github.com/O21-Outland) - Medieval/Fantasy modules revolving around my own custom lore inspired by a variety of universes that I don't want to make whole dedicated mods for.
+- [Outer Rim](https://github.com/O21-Outer-Rim) - Series of Star Wars based mods, spanning all eras of Canon with Legends and even the occasional fanon where I think it fits.
+- [CosmoRim](https://github.com/CosmoRim) - Late Industrial/Spacer modules revolving around my own custom lore inspired by a variety of...it's space Outland ok.
+
+Why don't I split everything like this? Because it's a lot of work maintaining seperated modules over one big one, and I'd personally prefer to just have the lot at once anyway, I only separate mods into smaller modules when I know it's going to be a problematic scale some day.
+
+### Looking for Rim-Effect?!
+YES, I am maintaining it now, but it's not 1.5 ready yet, when it is this section will be removed and I'll add a link in the section above. You can also follow my [Patreon](https://www.patreon.com/neronix17) as all information regarding the Rim-Effect mods will be 100% free and public.
