@@ -6,7 +6,8 @@ Like the mods and want to show some support? Anyone is welcome to do so via [Pat
 
 ### Issues
 You can submit a ticket on any of the mods if you have any issues. Make sure that:
-- You are up to date (cloning the repo using GitHub Desktop is the easiest way, you can then just fetch the latest version!)
+- You are up to date ([cloning the repo using GitHub Desktop](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop) is the easiest way, you then just fetch the latest version when you want to update)
+- If you are downloading the zip directly and using that make sure to DELETE old versions first! Overwriting isn't enough in the case where a file is removed/renamed and WILL cause problems!
 - Provide steps to reproduce it, if I can't then it's much harder for me to even guess how to fix. If it's a random issue that doesn't appear to have steps, it probably does and is just hard to figure out, so try to include as much info as you can if you can't figure out exact steps.
 - Include a HugsLib Log using Ctrl + F12 in-Game or clicking the Share button on the log window when it's open, if you can't upload the log, you can always copy to clipboard!
 
