@@ -1,5 +1,5 @@
 ## Outpost 21 Mods
-Can't use Steam? All O21 mods are available on GitHub in public repos now! Refer to the Steam Workshop for information on them as generally they will not have a wiki, or even a readme.
+Can't use Steam? All O21 mods are available on GitHub in public repos now! Refer to the Steam Workshop for information on them as generally they will not have a wiki, or even a readme. If they do not have a Workshop page, they are not yet released and likely heavily WIP if even functional at all.
 
 ### Support
 Like the mods and want to show some support? Anyone is welcome to do so via [Patreon](https://www.patreon.com/neronix17), huge thanks to everyone who has supported me even a little, it's literally prevented me from starving, or running out of utilities more often than I'd like to admit. If you can't afford to don't worry, there's always going to be some free posts if you just follow (completely free) instead.
