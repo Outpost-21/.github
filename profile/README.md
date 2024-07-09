@@ -33,4 +33,8 @@ Links to them are here:
 Why don't I split everything like this? Because it's a lot of work maintaining seperated modules over one big one, and I'd personally prefer to just have the lot at once anyway, I only separate mods into smaller modules when I know it's going to be a problematic scale some day.
 
 ### Looking for Rim-Effect?!
-YES, I am maintaining it now, but it's not 1.5 ready yet, when it is this section will be removed and I'll add a link in the section above. You can also follow my [Patreon](https://www.patreon.com/neronix17) as all information regarding the Rim-Effect mods will be 100% free and public.
+YES, I am maintaining it now, but it's not 1.5 ready yet, when it is this section will be merged with the links above instead. You can also follow my [Patreon](https://www.patreon.com/neronix17) as all information regarding the Rim-Effect mods will be 100% free and public.
+
+The repos for Rim-Effect can currently be found at the links below, any public repos listed are currently are a work in progress and at the stage where they are being internally tested, you use them entirely at your own risk, no support will be provided till they are released onto Steam for 1.5.
+- [Rim-Effect: Legacy](https://github.com/Rim-Effect-Legacy) - Humanoid Alien Races 2.0 based original, unchanged and only maintained as is.
+- [Rim-Effect: Reborn](https://github.com/Rim-Effect-Reborn) - Biotech and Asimov based remix, with alterations and additions that were made to fit my own tastes more.
