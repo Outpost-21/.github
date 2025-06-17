@@ -29,12 +29,10 @@ Links to them are here:
 - [Outland](https://github.com/O21-Outland) - Medieval/Fantasy modules revolving around my own custom lore inspired by a variety of universes that I don't want to make whole dedicated mods for.
 - [Outer Rim](https://github.com/O21-Outer-Rim) - Series of Star Wars based mods, spanning all eras of Canon with Legends and even the occasional fanon where I think it fits.
 - [CosmoRim](https://github.com/CosmoRim) - Late Industrial/Spacer modules revolving around my own custom lore inspired by a variety of...it's space Outland ok.
-
-Why don't I split everything like this? Because it's a lot of work maintaining seperated modules over one big one, and I'd personally prefer to just have the lot at once anyway, I only separate mods into smaller modules when I know it's going to be a problematic scale some day.
-
-### Looking for Rim-Effect?!
-YES, I am maintaining it now, but it's not 1.5 ready yet, when it is this section will be merged with the links above instead. You can also follow my [Patreon](https://www.patreon.com/neronix17) as all information regarding the Rim-Effect mods will be 100% free and public.
-
-The repos for Rim-Effect can currently be found at the links below, any public repos listed currently are a work in progress and at the stage where they are being internally tested, you use them entirely at your own risk, no support will be provided till they are released onto Steam for 1.5.
+- [Halo](https://github.com/O21-Halo) - Series of mods based on the Halo video games, including humans, covenant, forerunners and flood.
+- [Stargate](https://github.com/O21-Stargate) - Series of mods based on the Stargate franchise, taking bits and pieces from all series and occasionally some things that only made it into novels/comics/etc.
+- [NirnRim](https://github.com/O21-NirnRim) - Series of mods based on the Elder Scrolls franchise, reinterpreting things to work in RimWorld without focusing too much on a single game from that franchise.
 - [Rim-Effect: Legacy](https://github.com/Rim-Effect-Legacy) - Humanoid Alien Races 2.0 based original, unchanged and maintained as is.
 - [Rim-Effect: Renegade](https://github.com/Rim-Effect-Reborn) - Biotech and Asimov based remix, with alterations and additions that were made to fit my own personal tastes more.
+
+Why don't I split everything like this? Because it's a lot of work maintaining seperated modules over one big one, and I'd personally prefer to just have the lot at once anyway, I only separate mods into smaller modules when I know it's going to be a problematic scale some day.
